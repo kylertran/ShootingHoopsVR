@@ -1,4 +1,5 @@
 # Shooting Hoops VR
+![Game Preview](preview.png)
 
 **Developed by Kyler Tran - 2021**
 
