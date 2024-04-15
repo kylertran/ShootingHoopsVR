@@ -1,7 +1,7 @@
 # Shooting Hoops VR
 ![Game Preview](preview.png)
 
-**Developed by Kyler Tran - 2021**
+**Copyright &copy; 2021 Kyler Tran**
 
 Shooting Hoops VR is an immersive virtual reality basketball game that lets players experience the thrill of shooting basketballs without needing a ball. Developed using the Unity XR library, this game offers realistic basketball mechanics and environments tailored for VR enthusiasts.
 
